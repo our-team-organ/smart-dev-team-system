@@ -24,7 +24,7 @@ A full-stack team collaboration and project management platform.
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-dev-system.git
+git clone https://github.com/jubayer-brachcode./smart-dev-system.git
 cd smart-dev-system
 python -m venv venv
 venv\Scripts\activate        # Windows

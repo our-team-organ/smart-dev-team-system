@@ -1,0 +1,7 @@
+Database Tables Plan:
+1. users (Id, Name, Email, Role)
+2. skills (Id, SkillName, Level)
+3. teams (Id, TeamName, LeaderId)
+4. projects (Id, ProjectName, Deadline)
+5. tasks (Id, TaskName, Status, AssignedTo)
+6.
